@@ -13,9 +13,7 @@
 
 ---
 
-RETIRAMOS EL NOMBRE
-retiramos (copy) y quedara así saludo.service
-ejecutamos ahora los siguiente comandos
+
 
 * MOVER A CARPETA 
 Moveremos nuestro servicio a la siguiente carpeta `/etc/systemd/system/`
