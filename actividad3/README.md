@@ -40,6 +40,6 @@ sudo systemctl start saludo.service
 - TERMINAL
 sudo systemctl status saludo.service
 -Ejecucion
-![hola](EJECUCION.PNG)
+![hola](EJECUCION.png)
 
 
